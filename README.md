@@ -1,1 +1,3 @@
-# Online-Voting-System
+Un sistem de votare online este o aplicație web care permite utilizatorilor să voteze pentru partidele politice într-un mod sigur și anonim. Acest proiect poate fi folosit pentru a automatiza procesul de vot, economisind timp și asigurând o mai bună gestionare a rezultatelor.
+Principalul obiectiv al acestui sistem este de a automatiza procesul de votare pentru alegeri, permițând utilizatorilor să voteze online pentru partidele preferate. Aplicația asigură un sistem securizat, rapid și eficient de colectare a voturilor și calcularea rezultatului, folosind un front-end prietenos și o bază de date relațională.
+
